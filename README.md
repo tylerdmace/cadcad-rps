@@ -25,5 +25,3 @@ No initial conditions.
 
 ## Model Elements
 Initially, our winner will be undetermined. After both players make selections those selections will be compared and our winner will be updated.
-
-## Model Flow Chart
