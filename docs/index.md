@@ -1,2 +1,2 @@
 # Rock, Paper, Scissors
-This is a educational model built against an experimental build of cadCAD that is no longer available. A demonstration notebook can be found [here](docs/ri-demonstration.ipynb).
+This is a educational model built against an experimental build of cadCAD that is no longer available. A demonstration notebook can be found [here](demo.ipynb).
