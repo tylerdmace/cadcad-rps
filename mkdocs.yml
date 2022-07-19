@@ -1,2 +1,4 @@
 nav:
     - index.md
+markdown_extensions:
+    - pymdownx.inlinehilite
