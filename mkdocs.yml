@@ -1,5 +1,2 @@
 nav:
-    - demo.ipynb
-    - test.md
-plugins:
-    - mkdocs-jupyter
+    - index.md
