@@ -1,4 +1,4 @@
-theme: material
+theme: readthedocs
 nav:
     - demo.ipynb
     - test.md
