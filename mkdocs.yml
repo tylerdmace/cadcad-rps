@@ -1,4 +1,4 @@
-theme: mkdocs
+theme: material
 nav:
     - index.md
     - demo.ipynb
