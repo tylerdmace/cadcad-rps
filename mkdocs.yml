@@ -1,3 +1,4 @@
+theme: mkdocs
 nav:
     - index.md
     - demo.ipynb
