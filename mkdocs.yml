@@ -1,4 +1,5 @@
 nav:
     - index.md
-markdown_extensions:
-    - pymdownx.inlinehilite
+    - demo.ipynb
+plugins:
+    - mkdocs-jupyter
