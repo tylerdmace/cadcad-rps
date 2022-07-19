@@ -1,5 +1,6 @@
 theme: material
 nav:
     - demo.ipynb
+    - test.md
 plugins:
     - mkdocs-jupyter
