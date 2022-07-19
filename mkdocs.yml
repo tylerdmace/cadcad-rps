@@ -1,4 +1,4 @@
-theme: readthedocs
+theme: mkdocs
 nav:
     - demo.ipynb
     - test.md
