@@ -1,5 +1,5 @@
 theme: material
 nav:
-    - index.ipynb
+    - index.html
 plugins:
     - mkdocs-jupyter
