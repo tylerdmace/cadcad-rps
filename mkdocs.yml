@@ -1,4 +1,3 @@
-theme: material
 nav:
     - index.ipynb
 plugins:
