@@ -1,5 +1,6 @@
 nav:
     - "Overview": index.md
+    - "cadCAD Legacy": legacy.ipynb
     - "cadCAD RI": ri.ipynb
 plugins:
     - mkdocs-jupyter:
