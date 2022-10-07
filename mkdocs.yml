@@ -1,5 +1,6 @@
 nav:
-    - "Demonstration": index.ipynb
+    - "Overview": index.md
+    - "cadCAD RI": ri.ipynb
 plugins:
     - mkdocs-jupyter:
         ignore_h1_titles: True
