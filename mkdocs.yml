@@ -1,4 +1,5 @@
 nav:
-    - "Overview": index.ipynb
+    - "Demonstration": index.ipynb
 plugins:
-    - mkdocs-jupyter
+    - mkdocs-jupyter:
+        ignore_h1_titles: True
