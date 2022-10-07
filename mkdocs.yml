@@ -1,4 +1,4 @@
 nav:
-    - "Demonstration" index.ipynb
+    - index.ipynb
 plugins:
     - mkdocs-jupyter
